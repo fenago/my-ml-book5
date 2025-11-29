@@ -15,7 +15,6 @@ project:
 site:
   template: book-theme
   title: "Introduction to Machine Learning with Python"
-  base_url: /my-ml-book5
   nav:
     - file: chapters/chapter-1
     - file: chapters/chapter-2
